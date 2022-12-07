@@ -1,0 +1,4 @@
+C:\Users\aling\source\repos\ColorPicker\ColorPicker\x64\Release\ColorPicker.vcxproj.AssemblyReference.cache
+C:\Users\aling\source\repos\ColorPicker\ColorPicker\x64\Release\ColorPicker.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aling\source\repos\ColorPicker\ColorPicker\x64\Release\ColorPicker.MyForm.resources
+C:\Users\aling\source\repos\ColorPicker\ColorPicker\x64\Release\ColorPicker.vcxproj.GenerateResource.cache
